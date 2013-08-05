@@ -4,5 +4,6 @@
     <string name="app_name">Xbmc2ndScreen</string>
     <string name="title_item_detail">Item Detail</string>
 
-    <string name="fanartContentDescription">fanart</string>
+    <string name="fanartDescription">fanart</string>
+    <string name="thumbnailDescription">thumbnail</string>
 </resources>

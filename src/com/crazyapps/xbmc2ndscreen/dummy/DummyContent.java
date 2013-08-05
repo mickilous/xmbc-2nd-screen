@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.json.JSONObject;
+
 /**
  * Helper class for providing sample content for user interfaces created by Android template wizards.
  * <p>
@@ -36,6 +38,7 @@ public class DummyContent {
 		di.setThumbnail("http://cf2.imgobject.com/t/p/original/p2Aw1uTy9SmdXXhO4WQxeG9FUrU.jpg");
 		di.setYear(1990);
 
+		JSONObject jo = new JSONObject();
 		addItem(di);
 	}
 
